@@ -23,26 +23,18 @@ gulp.task('watch',['browserSync','sass'] ,function(){
 
 //---------------------Tasks-----------------------------------------
 
-//Build
-gulp.task('build', function (callback) {
-  runSequence(['clean:dist','sass', 'chico', 'images','minify','minify-html','clean-css','clean-js','clean:mini','api','run'],
-    callback
+
+//Run
+gulp.task('build',['minify-html','api','chico','images'], function (callback) {
+  runSequence(['browserSync','clean:mini'],
+      callback
   )
 })
-
-gulp.task('default', ['clean:dist','sass', 'chico', 'images','minify','minify-html','clean-css','clean-js','clean:mini','api','run']);
 
 //Build
 gulp.task('rebuild', function (callback) {
   runSequence(['clean:dist','sass', 'chico', 'images','minify-html','minify','api'],
       callback
-  )
-})
-
-//Run
-gulp.task('run',['minify-html','api','chico','images'], function (callback) {
-  runSequence(['browserSync','clean:mini'],
-    callback
   )
 })
 
