@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function(){
             }
         };
 
-        xmlhttp.open("GET", "/api/api.json", true);
+        xmlhttp.open("GET", "api/api.json", true);
         xmlhttp.send();
 
     }

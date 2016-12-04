@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12bcce06-5b01-48fd-8710-b6df4b30faea" name="Default" comment="" />
+    <list default="true" id="12bcce06-5b01-48fd-8710-b6df4b30faea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MiniMercado/app/js/deals.js" afterPath="$PROJECT_DIR$/MiniMercado/app/js/deals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MiniMercado/app/js/product-page.js" afterPath="$PROJECT_DIR$/MiniMercado/app/js/product-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MiniMercado/app/product-page.html" afterPath="$PROJECT_DIR$/MiniMercado/app/product-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MiniMercado/dist/index.html" afterPath="$PROJECT_DIR$/MiniMercado/dist/index.html" />
+    </list>
     <ignored path="Mini-Mercado.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,7 +33,7 @@
       <file leaf-file-name="header.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="-871">
               <caret line="34" column="14" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="14" />
               <folding />
             </state>
@@ -56,8 +63,8 @@
       <file leaf-file-name="product-page.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/product-page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
+            <state relative-caret-position="435">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -73,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.min.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMercado/dist/js/main.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="-939">
               <caret line="0" column="7699" selection-start-line="0" selection-start-column="7699" selection-end-line="0" selection-end-column="7699" />
               <folding />
             </state>
@@ -96,18 +103,18 @@
       <file leaf-file-name="deals.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/deals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="405">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MiniMercado/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="82" />
+            <state relative-caret-position="165">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -116,8 +123,8 @@
       <file leaf-file-name="product-page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMercado/app/product-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="135">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -150,17 +157,17 @@
         <option value="$PROJECT_DIR$/MiniMercado/dist/product-page.html" />
         <option value="$PROJECT_DIR$/MiniMercado/app/scss/header.scss" />
         <option value="$PROJECT_DIR$/MiniMercado/app/api/api.json" />
-        <option value="$PROJECT_DIR$/MiniMercado/app/index.html" />
         <option value="$PROJECT_DIR$/MiniMercado/app/js/header.js" />
-        <option value="$PROJECT_DIR$/MiniMercado/app/product-page.html" />
         <option value="$PROJECT_DIR$/MiniMercado/app/scss/product-page.scss" />
         <option value="$PROJECT_DIR$/MiniMercado/dist/html-mini/index.html" />
         <option value="$PROJECT_DIR$/MiniMercado/package.json" />
         <option value="$PROJECT_DIR$/MiniMercado/gulpfile.js" />
-        <option value="$PROJECT_DIR$/MiniMercado/app/js/product-page.js" />
-        <option value="$PROJECT_DIR$/MiniMercado/app/js/deals.js" />
         <option value="$PROJECT_DIR$/MiniMercado/app/scss/deals.scss" />
         <option value="$PROJECT_DIR$/MiniMercado/dist/js/main.min.js" />
+        <option value="$PROJECT_DIR$/MiniMercado/app/js/deals.js" />
+        <option value="$PROJECT_DIR$/MiniMercado/app/js/product-page.js" />
+        <option value="$PROJECT_DIR$/MiniMercado/app/product-page.html" />
+        <option value="$PROJECT_DIR$/MiniMercado/app/index.html" />
       </list>
     </option>
   </component>
@@ -170,10 +177,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/MiniMercado/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="742" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -450,15 +460,15 @@
       <workItem from="1480558186051" duration="11543000" />
       <workItem from="1480600683825" duration="82643000" />
       <workItem from="1480820485473" duration="440000" />
-      <workItem from="1480821246499" duration="1188000" />
+      <workItem from="1480821246499" duration="1511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95814000" />
+    <option name="totallyTimeSpent" value="96137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="742" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -703,46 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMercado/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMercado/app/product-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/deals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="34" column="14" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/product-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MiniMercado/app/scss/deals.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -753,8 +723,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MiniMercado/dist/js/main.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="-939">
           <caret line="0" column="7699" selection-start-line="0" selection-start-column="7699" selection-end-line="0" selection-end-column="7699" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/deals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-871">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMercado/app/js/product-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMercado/app/product-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMercado/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding />
         </state>
       </provider>
