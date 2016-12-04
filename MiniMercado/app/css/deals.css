@@ -1,9 +1,12 @@
 #banner {
   height: 340px;
   width: 100%;
-  background-color: black;
   left: 0;
-  right: 0; }
+  right: 0;
+  margin-top: 55px; }
+
+.banner-image {
+  width: 100%; }
 
 #deals-items .related-item {
   max-height: 175px;
