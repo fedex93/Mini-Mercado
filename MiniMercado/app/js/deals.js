@@ -48,7 +48,7 @@ function renderDeals(api){
         for(var i =0;i <api.items.length;i++){
 
             var dispName = api.items[i].displayname.length > 16 ? api.items[i].displayname.substr(0,16)+'...' : api.items[i].displayname;
-            relatedContent += '<li><a href="/product-page.html?id='+api.items[i].id+'"><img class="related-item"  src="images/'+api.items[i].image+'"></img><h3 class="name-related">'+dispName+'</h3><h3 class="price-related">$'+api.items[i].price.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,')+'</h3></a></li>';
+            relatedContent += '<li><a href="product-page.html?id='+api.items[i].id+'"><img class="related-item"  src="images/'+api.items[i].image+'"></img><h3 class="name-related">'+dispName+'</h3><h3 class="price-related">$'+api.items[i].price.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,')+'</h3></a></li>';
 
         }
 

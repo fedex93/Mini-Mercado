@@ -76,8 +76,8 @@ function render(api){
             try{
 
                 //Image
-                document.getElementById('main-image').src = "../images/"+image;
-                document.getElementById('zoom-default').href = "../images/"+image;
+                document.getElementById('main-image').src = "images/"+image;
+                document.getElementById('zoom-default').href = "images/"+image;
 
                 //Set displayname
                 document.getElementById('item-name').innerHTML = displayname;
@@ -146,7 +146,7 @@ function render(api){
                     //If the name is too large, the we cut it
                     var dispName = relatedItems[i].displayname.length > 16 ? relatedItems[i].displayname.substr(0,16)+'...' : relatedItems[i].displayname;
 
-                    relatedContent += '<li><a href="/product-page.html?id='+relatedItems[i].id+'"><img class="related-item"  src="images/'+relatedItems[i].image+'"></img><p class="name-related">'+dispName+'</p><p class="price-related">$'+relatedItems[i].price.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,')+'</p></a></li>';
+                    relatedContent += '<li><a href="product-page.html?id='+relatedItems[i].id+'"><img class="related-item"  src="images/'+relatedItems[i].image+'"></img><p class="name-related">'+dispName+'</p><p class="price-related">$'+relatedItems[i].price.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,')+'</p></a></li>';
                 }
 
                 //{"id":1,"displayname":"Kia Picanto FULL MANUAL","price" : 12490, "image":"kia-picanto.jpg"}
