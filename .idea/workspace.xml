@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bcce06-5b01-48fd-8710-b6df4b30faea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MiniMercado/dist/js/main.min.js" afterPath="$PROJECT_DIR$/MiniMercado/dist/js/main.min.js" />
     </list>
     <ignored path="Mini-Mercado.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deals.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deals.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MiniMercado/app/scss/deals.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MiniMercado/dist/js/main.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="0" column="9360" selection-start-line="0" selection-start-column="9360" selection-end-line="0" selection-end-column="9360" />
               <folding />
             </state>
           </provider>
@@ -153,6 +162,7 @@
         <option value="$PROJECT_DIR$/MiniMercado/app/js/product-page.js" />
         <option value="$PROJECT_DIR$/MiniMercado/app/js/deals.js" />
         <option value="$PROJECT_DIR$/MiniMercado/app/scss/deals.scss" />
+        <option value="$PROJECT_DIR$/MiniMercado/dist/js/main.min.js" />
       </list>
     </option>
   </component>
@@ -223,6 +233,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MiniMercado" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mini-Mercado" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mini-Mercado" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MiniMercado" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mini-Mercado" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mini-Mercado" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MiniMercado" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -402,12 +452,12 @@
       <workItem from="1480558186051" duration="11543000" />
       <workItem from="1480600683825" duration="82643000" />
       <workItem from="1480820485473" duration="440000" />
-      <workItem from="1480821246499" duration="883000" />
+      <workItem from="1480821246499" duration="1007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95509000" />
+    <option name="totallyTimeSpent" value="95633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="0" />
@@ -633,7 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MiniMercado/dist/js/main.min.js" />
     <entry file="file://$PROJECT_DIR$/MiniMercado/dist/css/style.min.css" />
     <entry file="file://$PROJECT_DIR$/MiniMercado/dist/html-mini/product-page.html" />
     <entry file="file://$PROJECT_DIR$/MiniMercado/dist/html-mini/index.html" />
@@ -700,6 +749,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniMercado/dist/js/main.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="0" column="9360" selection-start-line="0" selection-start-column="9360" selection-end-line="0" selection-end-column="9360" />
           <folding />
         </state>
       </provider>
